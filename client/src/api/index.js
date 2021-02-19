@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const url = 'http://192.168.0.111:3001/posts'
+const url = 'http://localhost:3001/posts'
 
 export const fetchPosts = () => axios.get(url);
 export const createPost = (newPost) => axios.post(url, newPost);
