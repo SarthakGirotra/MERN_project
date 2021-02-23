@@ -13,6 +13,7 @@ export default (posts = [], action) => {
         case 'DELETE':
             return posts.filter((post) => post._id != action.payload)
 
+
         default:
             return posts;
     }

@@ -1,4 +1,4 @@
-## MERN web application to perform CRUD operations on posts.
+## MERN web application with google login and jwt login to perform CRUD operations on posts.
 
 ### Installing Dependencies
 
