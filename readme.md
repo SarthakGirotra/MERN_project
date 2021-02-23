@@ -24,4 +24,4 @@ cd server
 npm start
 ```
 
-#### **Note: Rename .env.example to .env in server folder and update required variables**
+#### **Note: Rename .env.example to .env in server and client folder and update required variables**
